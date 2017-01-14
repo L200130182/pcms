@@ -1,0 +1,84 @@
+Aditya Krisna Susilo
+L200130182
+Perancangan Content Management System
+
+
+1. administration menu
+	digunakan untuk mengubah tampilan menu administrator pada menu admin
+
+2. coffe
+	digunakan untuk menampilkan fitur pencarian konfigurasi dengan cepat dengan menekan ALT+D
+
+3. bootstrap them
+	yaitu sebuah css framework yang responsive untuk berbagai ukuran device
+
+4. jquery update
+	adalah modul untuk mengupdate jquery supaya animasi dari bootstrap them dapat berjalan dengan lancar
+
+5. ckeditor
+	adalah modul untuk editor konten berbasis grafis (gui) yang mudah di gunakan
+
+6. imce
+	digunakan untuk mengaktifkan fitur upload file gambar dengan mode gui
+
+7. empty front page
+	digunakan untuk mengosongkan tampilan di menu utama
+
+8. Special Menu Items
+	digunakan untuk menghilangkan link atau path suatu tulisan di navbar
+
+9. pathauto
+	digunakan untuk menggenerate link atau path suatu konten secara otomatis
+
+10. Token
+	digunakan untuk membuat sebuah pola link tertentu yang di tampilkan di address bar browser pengunjung
+
+11. Module filter
+	digunakan untuk memfilter tampilan modul yang telah terinstall pada drupal
+
+12. Views
+	yaitu tampilan default depan halaman
+13. chaos Tool Suite
+  alat untuk meningkatkan pengalaman pengembang. Hal ini juga berisi modul yang disebut Page Manager yang bertugas untuk mengelola halaman.
+
+14. View Bootstrap
+  digunakan untuk membuat komponen-komponen berikut struktur tema kerangka Bootstrap semua dalam pengaturan konfigurasi kuat pandangan modul.
+
+15. Plupload Integration
+	digunakan Untuk mengintegrasikan drupal dengan Plupload widget yang berguna untuk mengupload banyak files ke drupal.
+
+16. Devel
+	digunakan Untuk menambah fungsi seperti block, page dan functions untuk developer.
+
+17. Image URL Formatter
+	digunakan Untuk menambah URL formatter di field.
+
+18. Equal Heights JQuery
+	digunakan Untuk menyeimbangkan/menyamakan tinggi dari sebuah element di kelas tertentu.
+
+19. Libraries API
+	yaitu sebuah Libraries API untuk drupal.
+
+20. Display Suite
+	digunakan Untuk mengontrol penuh bagaimana content tersebut disajikan.
+
+21. Bootstrap Filegroup
+	digunakan  untuk Menambah set formatter baru untuk opsi fieldgroup saat konfigurasi view mode display.
+
+22. Field Formatter Settings 
+	Memiliki kemampuan modul lain untuk dengan mudah mengubah pengaturan lapangan formatter bentuk dan ringkasan formatter.
+
+23. Frequently Asked Answer
+	Modul yang mengijinkan admin untuk membentuk sebuah FAQ.
+
+24. Views Bulk Operations
+	Modul ini menambah Views dengan memungkinkan operasi massal akan dieksekusi pada baris yang ditampilkan.
+
+25. Icon API
+	Untuk mengintegrasikan bundle icon di drupal.
+
+26. Font Awesome Icons
+	modul yang berfungsi untuk menggunakan Font untuk bootstrap drupal.
+
+27. Token Filter 
+	Modul yang sederhana untuk membuat nilai-nilai tanda tersedia sebagai filter input.
